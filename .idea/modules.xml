@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mms-gateway.iml" filepath="$PROJECT_DIR$/.idea/mms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Free-MMS-Gateway/.idea/Free-MMS-Gateway.iml" filepath="$PROJECT_DIR$/../Free-MMS-Gateway/.idea/Free-MMS-Gateway.iml" />
     </modules>
   </component>
 </project>
