@@ -3,7 +3,7 @@ A quite hackish, but ultimately free and as anonymous as email SMS/MMS solution.
 
 Usage:
 
-    # First modify email.config to reflect your email settings. Gmail has been tested and
+    # First modify email.config to reflect your SMTP settings. Gmail has been tested and
     # works if you enable this: https://support.google.com/accounts/answer/6010255?hl=en
 
     import FreeMMS
