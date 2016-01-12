@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="524ba3de-b8a2-42f1-a74c-3fbfcda066d6" name="Default" comment="">
+    <list default="true" id="524ba3de-b8a2-42f1-a74c-3fbfcda066d6" name="Default" comment="Removed EHLO command as it was not needed. Improved speed a bit.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email.config" afterPath="$PROJECT_DIR$/email.config" />
     </list>
     <ignored path="mms-gateway.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,20 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="email.config" pinned="false" current-in-tab="false">
+      <file leaf-file-name="email.config" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email.config">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+              <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emailer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="emailer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/emailer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44474393">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
@@ -111,10 +112,10 @@
         <option value="$PROJECT_DIR$/text.py" />
         <option value="$PROJECT_DIR$/data/gateways.list" />
         <option value="$PROJECT_DIR$/__init__.py.py" />
-        <option value="$PROJECT_DIR$/email.config" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/emailer.py" />
+        <option value="$PROJECT_DIR$/email.config" />
       </list>
     </option>
   </component>
@@ -598,7 +599,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452610708476</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Removed EHLO command as it was not needed. Improved speed a bit.">
+      <created>1452610715419</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1452610715419</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -818,18 +825,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email.config">
+    <entry file="file://$PROJECT_DIR$/emailer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emailer.py">
+    <entry file="file://$PROJECT_DIR$/email.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44474393">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
           <folding />
         </state>
       </provider>
