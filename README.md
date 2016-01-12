@@ -17,3 +17,8 @@ Known Issues:
 Some gateways will send messages to clients that are not on their network, this software is best used when reciving a few copies of the same message is preferable to none.
 
 Non-US gateways are currently not included.
+
+Dependancies:
+
+smtplib - https://docs.python.org/2/library/smtplib.html
+sys (if used as standalone) - https://docs.python.org/2/library/sys.html
