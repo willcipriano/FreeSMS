@@ -14,4 +14,5 @@ Usage:
     # Subject: Not required, typically displayed on the handset as 'Subject / Message'
 
 Known Issues:
-Some gateways will sent messages to clients that are not on their network, this software is best used when reciving a few copies of the same message is preferable to none.
+Some gateways will send messages to clients that are not on their network, this software is best used when reciving a few copies of the same message is preferable to none.
+Non-US gateways are currently not included.
