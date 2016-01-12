@@ -12,3 +12,6 @@ Usage:
     # Number: A ten digit phone number in the format 2223334444
     # Message: The message you wish to send to the recipient
     # Subject: Not required, typically displayed on the handset as 'Subject / Message'
+
+Known Issues:
+Some gateways will sent messages to clients that are not on their network, this software is best used when reciving a few copies of the same message is preferable to none.
