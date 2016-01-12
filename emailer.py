@@ -3,7 +3,6 @@
 def email(server,port,username,password,toaddrs,message,subject=''):
     import smtplib
     server = smtplib.SMTP(server + ':' + port)
-    server.ehlo()
     server.starttls()
     server.login(username,password)
     #Header needed for T-Mobile

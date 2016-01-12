@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524ba3de-b8a2-42f1-a74c-3fbfcda066d6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/w0rk.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email.config" afterPath="$PROJECT_DIR$/email.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emailer.py" afterPath="$PROJECT_DIR$/emailer.py" />
     </list>
     <ignored path="mms-gateway.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emailer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="emailer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/emailer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.10600707">
               <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
               <folding />
             </state>
@@ -52,11 +54,9 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding>
-                <element signature="e#386#396#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-12.785714">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42402828">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="171" selection-start-line="16" selection-start-column="171" selection-end-line="16" selection-end-column="171" />
               <folding />
             </state>
@@ -115,9 +115,9 @@
         <option value="$PROJECT_DIR$/data/gateways.list" />
         <option value="$PROJECT_DIR$/__init__.py.py" />
         <option value="$PROJECT_DIR$/email.config" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/emailer.py" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -467,7 +467,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452608838001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated readme">
+      <created>1452609519951</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1452609519951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -525,7 +531,8 @@
     <MESSAGE value="Refactoring" />
     <MESSAGE value="Improved speed." />
     <MESSAGE value="Added documentation and subject option" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added documentation and subject option" />
+    <MESSAGE value="Updated readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,9 +561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#386#396#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -671,6 +676,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="171" selection-start-line="16" selection-start-column="171" selection-end-line="16" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/email.config">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -681,26 +694,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="e#386#396#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-12.785714">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/emailer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.10600707">
           <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42402828">
-          <caret line="16" column="171" selection-start-line="16" selection-start-column="171" selection-end-line="16" selection-end-column="171" />
           <folding />
         </state>
       </provider>
