@@ -1,5 +1,3 @@
-
-
 def email(server,port,username,password,toaddrs,message,subject=''):
     import smtplib
     server = smtplib.SMTP(server + ':' + port)

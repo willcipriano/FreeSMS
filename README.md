@@ -24,3 +24,5 @@ Dependancies:
 smtplib - https://docs.python.org/2/library/smtplib.html
 
 sys (if used as standalone) - https://docs.python.org/2/library/sys.html
+
+This project has been abandoned and exists here for posterity
